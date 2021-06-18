@@ -1,6 +1,5 @@
 # FermatOT
-
-Fermat_Barycenter: implementa el algoritmo de baricentro y muestra ejemplos
+Fermat-Barycenter: implementa el algoritmo de baricentro y muestra ejemplos
 
 Z_continuo: implementa el algoritmo de baricentro y muestra el ejemplo para z continuo
 
@@ -10,6 +9,6 @@ Fermat_OT_ejemplos: muestra ejemplos de transporte óptimo de Fermat, utilizando
 
 Fermat_OT_wrapped: permite utilizar facilmente el tranposrte optimo de fermat en el enfoque de optimizacion con restriciones
 
-Fermat_Color_Transfer: muestra ejemplos de color transfer y permite realizar color transfer con distancia euclidea y de fermat con dos imagenes provistas.
+Fermat_color_transfer: muestra ejemplos de color transfer y permite realizar color transfer con distancia euclidea y de fermat con dos imagenes provistas.
 
 
